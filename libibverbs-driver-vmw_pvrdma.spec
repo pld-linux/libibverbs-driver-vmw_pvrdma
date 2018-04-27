@@ -1,8 +1,9 @@
+# NOTE: for versions >= 17 see rdma-core.spec
 Summary:	Userspace driver for the VMware Paravirtual RDMA devices
 Summary(pl.UTF-8):	Sterownik przestrzeni użytkownika dla urządzeń VMware Paravirtual RDMA
 Name:		libibverbs-driver-vmw_pvrdma
 Version:	1.0.0
-Release:	1
+Release:	1.1
 License:	BSD or GPL v2
 Group:		Libraries
 Source0:	https://www.openfabrics.org/downloads/libvmw_pvrdma/libvmw_pvrdma-%{version}.tar.gz
